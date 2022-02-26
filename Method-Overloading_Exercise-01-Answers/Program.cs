@@ -74,14 +74,33 @@ namespace Method_Overloading_Exercise_01_Answers
 
         // TODO: Create a PrintItems() long overload
 
+        // TODO: Create a PrintItems() long overload that prints out ANY amount of longs passed in to the function as arguments // TODO: Create an overload for PrintItems that prints out ANY amount of integers passed in to the function as arguments
+
+
+        // TODO: Create a PrintItems() double overload that prints out ANY amount of doubles passed in to the function as arguments
+
+
+        // TODO: Create a PrintItems() decimal overload that prints out ANY amount of decimals passed in to the function as arguments
+
+
+        // TODO: Create a PrintItems() bool overload that prints out ANY amount of bools passed in to the function as arguments
+
+
+        // TODO: Create a PrintItems() string overload that prints out ANY amount of strings passed in to the function as arguments
+
+
+        // TODO: Create a PrintItems() char overload that prints out ANY amount of chars passed in to the function as arguments
+
+
+        // TODO: Create a PrintItems() float overload that prints out ANY amount of floats passed in to the function as arguments
+
+
         // TODO: Create a PrintItems() long overload that prints out ANY amount of longs passed in to the function as arguments
 
         #endregion
 
 
         #region BONUS
-
-        // TODO: Create a PrintItems() object overload
 
         // TODO: Create a PrintItems() object overload that prints out ANY amount of objects passed in to the function as arguments
 
