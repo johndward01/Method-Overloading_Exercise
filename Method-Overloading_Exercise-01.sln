@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31515.178
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method-Overloading_Exercise-01-Answers", "Method-Overloading_Exercise-01-Answers\Method-Overloading_Exercise-01-Answers.csproj", "{C81120C4-8CD9-4C30-BE00-DD98FC5388CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method-Overloading_Exercise-01", "Method-Overloading_Exercise-01-Answers\Method-Overloading_Exercise-01.csproj", "{C81120C4-8CD9-4C30-BE00-DD98FC5388CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
